@@ -1,0 +1,5 @@
+Benjamin Johnson
+
+TO COMPILE: use the command make or javac XMLChecker.java
+
+TO RUN: use the command make run or java XMLChecker XMLFile

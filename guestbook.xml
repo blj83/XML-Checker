@@ -1,0 +1,21 @@
+<guestbook>
+	<guest>
+		<fname>Bobby</fname>
+		<lname>Joe</lname>
+	</guest>
+	<guest>
+		<fname>Kyle</fname>
+		<lname>Krafka</lname>
+		<something>
+			<this>
+				<is>
+					<a>
+
+						<test>Yay!</test>
+
+					</a>
+				</is>
+			</this>
+		</something>
+	</guest>
+</guestbook>

@@ -1,0 +1,19 @@
+<guestbook>
+	<guest>
+		<fname>Bobby</fname>
+		<lname>Joe</lname>
+	</guest>
+	<guest>
+		<fname>Kyle</fname>
+		<lname>Krafka</lname>
+		<something>
+			<this>
+				<is>
+					<a>
+						<test><b><i>Yay!</b><i></test>
+					</a>
+				</is>
+			</this>
+		</something>
+	</guest>
+</guestbook>
